@@ -1,0 +1,20 @@
+html {
+    background-color: aqua;
+}
+
+.texto { 
+    font-size: 30px;
+}
+
+.importante { 
+    color: blue;
+}
+
+.grifando { 
+    color: darkblue;
+}
+
+table, td, th {
+    border: 5px solid black;
+    
+}
